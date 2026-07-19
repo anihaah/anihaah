@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+### 🌐 Live Cyberpunk Lab
+[![Neural Matrix Core](https://img.shields.io/badge/Matrix_Core-Live_Project-00f3ff?style=for-the-badge&logo=cpu&logoColor=white)](https://anihaah.github.io/ai-chat-interface/)
