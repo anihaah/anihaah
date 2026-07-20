@@ -33,7 +33,7 @@ Here is the interactive grid mapping repository commit history into an animated 
 ## Learning Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anihaah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Analytics" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anihaah&show_icons=true&theme=dark&hide_border=true" alt="GitHub Analytics" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anihaah&theme=dark&hide_border=true" alt="Contribution Streak" width="49%" />
 </p>
 
