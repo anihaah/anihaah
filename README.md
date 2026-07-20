@@ -14,31 +14,20 @@
 
 ## Coding Foundations
 
-* **Languages I am learning:** `C` • `C++` • `Python` • `Java`
-* **Web basics:** `HTML5` • `CSS3` • `JavaScript`
-* **Tools I use:** `VS Code` • `Git / GitHub`
+* **Languages:** `C` • `C++` • `Python` • `Java`
+* **Web Basics:** `HTML5` • `CSS3` • `JavaScript`
+* **Tools & Platforms:** `VS Code` • `Git` • `GitHub`
 
 ---
 
 ## Interactive Contribution Matrix
 
-Here is the interactive grid mapping repository commit history into an animated matrix.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Matrix" width="100%" />
-</p>
-
----
-
-## Learning Progress
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=anihaah&show_icons=true&theme=dark&hide_border=true" alt="GitHub Analytics" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anihaah&theme=dark&hide_border=true" alt="Contribution Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anihaah&theme=dark&hide_border=true" alt="Contribution Matrix" width="100%" />
 </p>
 
 ---
 
 ## Featured Projects
 
-* [Neural Matrix Core Sandbox](https://anihaah.github.io/sandbox/) - An interactive terminal web interface built using HTML, CSS, and JavaScript.
+* **Neural Matrix Core Sandbox** — An interactive terminal web interface built using HTML, CSS, and JavaScript.
