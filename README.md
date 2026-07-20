@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=A.H+Aniha+Nujum" alt="A.H Aniha Nujum" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=70&lines=A.H+Aniha+Nujum" alt="A.H Aniha Nujum" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Here is the interactive grid mapping repository commit history into an animated 
 ## Learning Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anihaah&show_icons=true&theme=dark&hide_border=true" alt="GitHub Analytics" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=anihaah&show_icons=true&theme=dark&hide_border=true" alt="GitHub Analytics" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anihaah&theme=dark&hide_border=true" alt="Contribution Streak" width="49%" />
 </p>
 
